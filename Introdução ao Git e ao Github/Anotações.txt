@@ -1,2 +1,2 @@
-Link para download do Git: https://git-scm.com/download/win
-Anotações sobre o curso de Git e GitHub
+Anotações sobre o curso de Git e GitHub.
+Link para download do Git: https://git-scm.com/download/win
